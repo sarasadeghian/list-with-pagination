@@ -1,0 +1,16 @@
+.collection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.collection--item {
+    min-width: 30rem;
+    width: 70%;
+    border: solid 1px #fafafa;
+    padding: 1rem;
+    background-color: #faf9f9;
+    margin: .2rem;
+    border-radius: .4rem;
+    font-size: 16px;
+}
